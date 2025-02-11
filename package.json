@@ -1,0 +1,17 @@
+{
+  "name": "mi-codigo",
+  "version": "1.0.0",
+  "description": "copia",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Keynell",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "git": "^0.1.5",
+    "zod": "^3.24.1"
+  }
+}
